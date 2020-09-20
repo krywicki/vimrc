@@ -19,3 +19,8 @@ set smartcase 		" auto switch search to case sensitive when query contains upper
 " User Interface Options
 set laststatus=2	" always display status bar
 set ruler
+set number
+set noswapfile
+"set spell
+set autoread
+syntax on
